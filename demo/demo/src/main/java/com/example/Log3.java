@@ -9,7 +9,7 @@ public class Log3 {
     Connection con = DriverManager.getConnection(
       "jdbc:postgresql://localhost/postgres",
       "postgres",
-      "!sHuman"
+      "Kamal2002*"
     );
     Statement stmt = con.createStatement();
     String sql =

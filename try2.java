@@ -16,7 +16,7 @@ public class try2 {
     Connection con = DriverManager.getConnection(
       "jdbc:postgres://localhost:5432/postgres",
       "postgres",
-      "!sHuman"
+      "Kamal2002*"
     );
     Statement stmt = con.createStatement();
     String sql =

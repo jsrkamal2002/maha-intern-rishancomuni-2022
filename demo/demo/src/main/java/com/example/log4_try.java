@@ -9,7 +9,7 @@ public class log4_try {
     Connection con = DriverManager.getConnection(
       "jdbc:postgresql://localhost/postgres",
       "postgres",
-      "!sHuman"
+      "Kamal2002*"
     );
     Statement stmt = con.createStatement(
       ResultSet.TYPE_SCROLL_INSENSITIVE,
