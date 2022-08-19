@@ -26,7 +26,7 @@ public class Log {
       //Reading the data present in a given file from FileReader using the BufferedReader.
       //Here, the location is the path of the file. Kindly change the location to the correct location of the required file in your system.
       String location =
-        "C:\\Users\\jsrk\\Desktop\\maha-intern-rishancomuni-2022\\log.txt";
+        "C:\\Users\\Rajkamal\\Desktop\\maha-intern-rishancomuni-2022\\log.txt";
       BufferedReader lineReader = new BufferedReader(new FileReader(location));
       //Reading the contents of the file line by line
 
